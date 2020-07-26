@@ -4,5 +4,5 @@ pkg install curl<br>
 git clone https://github.com/iskiie/gojek/<br>
 php index.php or php list.php<br>
 <br>
-index.php [get vouchers]<br>
-list.php [cek vouchers]
+index.php => [get vouchers]<br>
+list.php => [cek vouchers]
